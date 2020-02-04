@@ -1,3 +1,9 @@
+
+To run this application, simply use the npm start command
+
+This application mainly uses: React, Redux, and D3.js.  
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
