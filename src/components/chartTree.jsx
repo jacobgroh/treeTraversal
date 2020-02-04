@@ -126,7 +126,7 @@ class ChartTree extends Component {
       g = svg
         .append("g")
         .attr("transform-origin", "center")
-        .attr("transform", "translate(0,0) scale(" + 0.9 + ")")
+        .attr("transform", "translate(0,25) scale(.9)")
         .attr("width", width)
         .attr("height", height);
 
