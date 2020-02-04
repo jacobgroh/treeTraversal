@@ -1,3 +1,7 @@
+
+To run this application, simply use the npm start command
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
